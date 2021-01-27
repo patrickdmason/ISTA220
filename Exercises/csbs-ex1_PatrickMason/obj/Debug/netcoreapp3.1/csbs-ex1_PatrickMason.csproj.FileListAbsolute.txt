@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.exe
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.deps.json
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.runtimeconfig.json
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.dll
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\bin\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.pdb
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.dll
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.pdb
+C:\Users\wwstudent\source\repos\csbs-ex1_PatrickMason\obj\Debug\netcoreapp3.1\csbs-ex1_PatrickMason.genruntimeconfig.cache

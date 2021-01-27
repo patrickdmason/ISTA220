@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.exe
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.deps.json
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.runtimeconfig.json
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.dll
+C:\Users\wwstudent\source\repos\sum2ten\bin\Debug\netcoreapp3.1\sum2ten.pdb
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.dll
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.pdb
+C:\Users\wwstudent\source\repos\sum2ten\obj\Debug\netcoreapp3.1\sum2ten.genruntimeconfig.cache

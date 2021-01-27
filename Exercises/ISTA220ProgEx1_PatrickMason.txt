@@ -1,0 +1,42 @@
+using System;
+
+namespace progex01_PatrickMason
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("\nPart 1, circumference and area of a circle.");
+            Console.Write("enter an integar for the radius: ");
+            string strradius = Console.ReadLine();
+            int intradius = int.Parse(strradius);
+            double circumference = 2 * Math.PI * intradius;
+            Console.WriteLine($"The circumference is {circumference}");
+            double area = (Math.PI) * (intradius * intradius);
+            Console.WriteLine($"The area is {area}");
+
+            Console.WriteLine("\nPart 2, volume of a hemisphere.");
+            double volume = ((4 / 3) * Math.PI * (intradius * intradius)) / 2;
+            Console.WriteLine($"The volume is {volume}");
+
+            Console.WriteLine("\nPart 3, area of a triangle (Heron's formula).");
+            Console.WriteLine("Enter the length of leg a: ");
+            string strlega = Console.ReadLine();
+            int intlega = int.Parse(strlega);
+            Console.WriteLine("Enter the length of leg b: ");
+            string strlegb = Console.ReadLine();
+            int intlegb = int.Parse(strlegb);
+            Console.WriteLine("Enter the length of leg c: ");
+            string strlegc = Console.ReadLine(); 
+            int intlegc = int.Parse(strlegc);
+            int intper = (intlega + intlegb + intlegc) / 2;
+            Console.WriteLine($"The perimeter is {intper}");
+            area = Math.Sqrt(intper) * ((intper - intlega) * (intper - intlegb) * (intper - intlegc));
+            Console.WriteLine($"The area is {area}");
+
+            //Console.WriteLine("\nPart 4, solving a quadratic equation.");
+            //double positive_num = /*some code here*/
+            //double negative_num = /*some code here*/
+            //double denominator = /*some code here*/
+            //Console.WriteLine($"The positive solution is {positive_num / denominator}");
+            //Console.WriteLine($"The negative solution is {negative_num / denominator}");//

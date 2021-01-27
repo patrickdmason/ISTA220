@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.exe
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.deps.json
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.runtimeconfig.json
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.dll
+C:\Users\wwstudent\source\repos\RecurssionLab\bin\Debug\netcoreapp3.1\RecurssionLab.pdb
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.dll
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.pdb
+C:\Users\wwstudent\source\repos\RecurssionLab\obj\Debug\netcoreapp3.1\RecurssionLab.genruntimeconfig.cache
