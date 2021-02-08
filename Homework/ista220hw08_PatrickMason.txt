@@ -1,0 +1,45 @@
+# C# Programming Homework 08 - Patrick Mason
+Chapter 08, C# Step by Step
+## Readings
+Read chapter 8 in the C# Step by Step book.
+## Discussion Questions
+Answer the discussion questions in writing.
+
+### 1. What is the difference between deep copy and shallow copy?
+A shallow copy only copies the stack. A deep copy copies what's on the heap as well as the stack.
+
+### 2. What is the value of a reference after you declare and initialize it?
+A small piece of memory is allotted that can potentially hold the address of (or a reference to) another block of memory containing the value of the object.
+
+### 3. How do you declare a value type?
+by assigning a value to it.
+
+### 4. How do you declare a reference type?
+with the NEW keyword when creating an object.
+
+### 5. Does C# allow you to assign NULL to a value type?
+Yes, (by using a question mark (?) after the type declaration) in order to create reference variables that don't point to an object in memory.
+
+### 6. Can you assign a nullable value type to a non-nullable variable of the same type? Why or why not?
+No, the program won't compile.
+
+### 7. What is the difference between the stack and the heap?
+The heap is unallocated and the stack is allocated.  When the last reference to it disappears, the heap memory is made available again. All value types are created on the stack. All reference types
+(objects) are created on the heap.
+
+### 8. What does it mean when we say that all classes are specialized types?
+They're not actually used because their parameters are private (encapsulated). They can, however, be cloned. They're essentially 'templates'.
+
+### 9. What does ref do?
+Since 'ref' points to the argument, a method performs calculations on the actual data instead of a copy of the data; so anything you do to the parameter you also do to the original argument. The argument might change.
+
+
+
+### 10. What does out do?
+The 'out' keyword causes the method itself to initialize the parameter by passing a value to it.
+
+### 11. Describe boxing and unboxing in your own words.
+Automatic copying of an item from the stack to the heap is called boxing. All references refer to objects on the heap; creating references to items on the stack could seriously cause the runtime to bog down and create a potential security flaw, so it is not allowed. The runtime allocates a piece of memory from the heap, copies the value of a method or variable to it, and then refers new objects that use the value in their own parameters to this copy.
+
+### 12. What does cast do?
+Casting  obtains the value of ('unboxes') the boxed copy of an object in the heap. It checks whether converting an item of one type to another is safe before making the copy.
